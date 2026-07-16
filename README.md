@@ -12,6 +12,14 @@ The objective was to clean raw data by removing duplicates, standardizing values
 
 ---
 
+## 📂 Dataset
+
+This project uses a real-world layoffs dataset containing information such as company, industry, location, date, total layoffs, funding raised, and layoff percentages.
+
+The dataset was cleaned and prepared for further analysis using SQL.
+
+---
+
 ## 🛠️ Tools Used
 
 - MySQL
@@ -85,4 +93,26 @@ Removed the temporary `row_num` column after duplicate removal.
 
 ## 📈 Outcome
 
-Prepared a clean, analysis-ready dataset that can be used for exploratory data analysis and dashboard creation.
+Successfully transformed a raw layoffs dataset into a clean and analysis-ready dataset by:
+
+- Removing duplicate records
+- Standardizing text values
+- Handling missing values
+- Converting date formats
+- Preparing the data for exploratory data analysis (EDA) and visualization
+
+  ---
+
+  ## 📖 What I Learned
+
+Through this project , I strengthened my understanding of:
+
+- Window Functions
+- ROW_NUMBER()
+- Common Table Expressions (CTEs)
+- Self Joins
+- Data Cleaning Techniques
+- Handling Missing Data
+- SQL Best Practices
+
+
