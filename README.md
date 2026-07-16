@@ -68,6 +68,19 @@ Removed the temporary `row_num` column after duplicate removal.
 - Self Joins
 - Data Preparation
 
+
+---
+
+## 📸 Project Screenshots
+
+-- Removing Duplicate Records
+
+-- Standardizing the Data
+
+-- Handling Missing Values
+
+-- Final Cleaned Dataset
+
 ---
 
 ## 📈 Outcome
